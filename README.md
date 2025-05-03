@@ -70,6 +70,8 @@ Among these, transformers have gained significant prominence for their ability t
 Future research focuses on making transformers more efficient, interpretable, and ethical. Techniques like Mixture of Experts (MoE), Sparse Attention Mechanisms, and Quantum AI are explored to enhance generative AI.
 7. Conclusion Transformers have revolutionized generative AI, enabling breakthroughs in various domains. Their self-attention mechanism and scalability make them superior to previous architectures. As research advances, we can expect more efficient and ethical applications, further transforming industries globally.
 
+![image](https://github.com/user-attachments/assets/01f9337a-0435-47d9-b973-ecf921379b43)
+
 #### 3.	Generative AI applications.
 #### Output:
 
